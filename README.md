@@ -103,8 +103,8 @@ python -m pytest -q /workspace/python/tests
 
 ### Licensing
 
-- **Code**: AGPLv3 (**AGPL-3.0-only**) — see `LICENSE`.
-- **All other content**: CC BY-SA 4.0 (**CC-BY-SA-4.0**) — see `LICENSES/CC-BY-SA-4.0.txt`.
+- **Code**: AGPLv3 (**AGPL-3.0-only**) — see `LICENSE.md`.
+- **All other content**: CC BY-SA 4.0 (**CC-BY-SA-4.0**) — see `LICENSE_OTHER.md`.
 
 See `LICENSING.md` for details and notes about generated documentation.
 

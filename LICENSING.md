@@ -2,8 +2,8 @@
 
 This repository is **dual-licensed by content type**:
 
-- **Source code** (software, tests, build scripts, and other executable/source artifacts): **GNU Affero General Public License v3.0 only** (**AGPL-3.0-only**). See `LICENSE`.
-- **All other content** (documentation, prose, diagrams, and similar non-code materials): **Creative Commons Attribution-ShareAlike 4.0 International** (**CC BY-SA 4.0**). See `LICENSES/CC-BY-SA-4.0.txt`.
+- **Source code** (software, tests, build scripts, and other executable/source artifacts): **GNU Affero General Public License v3.0 only** (**AGPL-3.0-only**). See `LICENSE.md`.
+- **All other content** (documentation, prose, diagrams, and similar non-code materials): **Creative Commons Attribution-ShareAlike 4.0 International** (**CC BY-SA 4.0**). See `LICENSE_OTHER.md`.
 
 ### Notes on generated API documentation
 

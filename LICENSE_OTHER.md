@@ -334,7 +334,7 @@ d. Nothing in this Public License constitutes or may be interpreted
 
 Creative Commons is not a party to this Public License. Notwithstanding,
 Creative Commons may elect to apply this Public License to material it
-publishes and in those instances will be considered the “Licensor.” The
+publishes and in those instances will be considered the "Licensor." The
 text of the Creative Commons licenses is dedicated to the public domain
 under the CC0 Public Domain Dedication. Except for the limited purpose
 of indicating that material is shared under a Creative Commons license or
@@ -345,3 +345,4 @@ logo of Creative Commons without its prior written consent.
 
 This is a human-readable copy of the legal code; the canonical license text is available at:
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
