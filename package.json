@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actuallyrizzn/cursor-python-sdk.git"
+    "url": "git+https://github.com/actuallyrizzn/cursor-sdk.git"
   },
   "keywords": [],
   "author": "actuallyrizzn",
   "license": "AGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/actuallyrizzn/cursor-python-sdk/issues"
+    "url": "https://github.com/actuallyrizzn/cursor-sdk/issues"
   },
-  "homepage": "https://github.com/actuallyrizzn/cursor-python-sdk#readme",
+  "homepage": "https://github.com/actuallyrizzn/cursor-sdk#readme",
   "devDependencies": {
     "cheerio": "^1.1.2",
     "playwright": "^1.57.0",
